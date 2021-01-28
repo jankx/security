@@ -1,0 +1,19 @@
+{
+  "name": "jankx/security",
+  "description": "This is the core of Jankx theme framework and is also usable on its own as embed framework",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Puleeno Nguyen",
+      "email": "puleeno@gmail.com"
+    }
+  ],
+  "require": {
+    "paragonie/random_compat": "2.0.19",
+    "paragonie/constant_time_encoding": "1.0.4",
+    "phpseclib/phpseclib": "~3.0"
+  },
+  "autoload": {}
+}
